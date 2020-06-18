@@ -1,0 +1,9 @@
+/home/kalininmr/IdeaProjects/vk_streaming/src/main/java/WebsoketPrinter.java
+/home/kalininmr/IdeaProjects/vk_streaming/src/main/java/Controllers/MessageProducer.java
+/home/kalininmr/IdeaProjects/vk_streaming/src/main/java/Databases/RabbitMQ.java
+/home/kalininmr/IdeaProjects/vk_streaming/src/main/java/App.java
+/home/kalininmr/IdeaProjects/vk_streaming/src/main/java/ConfigReader.java
+/home/kalininmr/IdeaProjects/vk_streaming/src/main/java/Controllers/MessageThread.java
+/home/kalininmr/IdeaProjects/vk_streaming/src/main/java/Controllers/RabbitController.java
+/home/kalininmr/IdeaProjects/vk_streaming/src/main/java/Databases/MongoDB.java
+/home/kalininmr/IdeaProjects/vk_streaming/src/main/java/Controllers/MessageReceiver.java
